@@ -14,20 +14,6 @@ Antes de começar, certifique-se de ter atendido aos seguintes requisitos:
 - Um dispositivo móvel ou emulador para testar o aplicativo.
 
 ---
-
-## Captura de tela da IU
-<div align="center">
-<img src="https://github.com/rihamnazeer/Book-Library/assets/90144970/3298c7d5-0456-42b5-9181-51a73a144e3a" width="220" height="400" />
-<img src="https://github.com/rihamnazeer/Book-Library/assets/90144970/c485f2a9-2a99-40a2-99f8-627fc9dfb46e" width="220" height="400" />
-<img src="https://github.com/rihamnazeer/Biblioteca-de-livros/ativos/90144970/f3e0ed85-fc99-499e-bc50-8d9f00d9465f" width="220" height="400" />
-</div>
-<div align="center">
-<img src="https://github.com/rihamnazeer/Biblioteca-de-livros/ativos/90144970/79da04cb-a278-4755-9db4-0c34e8d4c760" width="220" height="400" />
-<img src="https://github.com/rihamnazeer/Book-Library/assets/90144970/4f5e10b8-cc1a-49c4-8fd1-49377cac9ce4" width="220" height="400" />
-<img src="https://github.com/rihamnazeer/Book-Library/assets/90144970/1ca07cf2-8773-4689-8617-5b0f887770f6" width="220" height="400" />
-</div>
-
----
 ## Instalação
 
 ### 1. Crie um projeto no Expo
